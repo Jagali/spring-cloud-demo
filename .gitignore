@@ -8,3 +8,5 @@
 /service-ribbon/target/
 /service-user-center/target/
 /service-zuul/target/
+.idea
+*.iml
