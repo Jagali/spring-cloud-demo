@@ -10,3 +10,6 @@
 /service-zuul/target/
 .idea
 *.iml
+*.log
+/skywalking/mesh-buffer
+/skywalking/trace-buffer
