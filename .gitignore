@@ -1,0 +1,10 @@
+# Project exclude paths
+/admin-server/target/
+/eureka-server/target/
+/gateway/target/
+/open-api/target/
+/service-feign/target/
+/service-hi/target/
+/service-ribbon/target/
+/service-user-center/target/
+/service-zuul/target/
